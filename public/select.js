@@ -17,3 +17,4 @@ $('.owl-carousel').owlCarousel({
 
 
 
+// this file should allow the items to begin to move in the html file. 
