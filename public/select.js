@@ -1,4 +1,8 @@
-$('.owl-carousel').owlCarousel({
+
+
+
+$(document).ready(function(){
+   $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
     nav:true,
@@ -18,4 +22,4 @@ $('.owl-carousel').owlCarousel({
 
 
 // this file should allow the items to begin to move in the html file. 
-
+});
